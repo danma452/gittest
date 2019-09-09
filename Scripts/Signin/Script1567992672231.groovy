@@ -15,3 +15,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('signin.method.me')
+
+WebUI.delay(3)
+
